@@ -1,12 +1,6 @@
-Absolutely — let’s make your `README.md` **professional, clean, and fully GitHub-compatible**, without emojis or clutter.
-
-Here’s the refined, professional version:
-
----
+Goodreads Book Scraper (100 Pages)
 
 ````markdown
-# Goodreads Book Scraper (100 Pages)
-
 This is a Python-based web scraper that extracts book data from Goodreads' public list:  
 [Best Books Ever](https://www.goodreads.com/list/show/1.Best_Books_Ever).
 
